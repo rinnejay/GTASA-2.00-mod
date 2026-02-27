@@ -1,0 +1,10 @@
+# Mengabaikan folder tertentu
+.gradle/
+.vscode/
+build/
+bin/
+
+# Mengabaikan semua file dengan ekstensi tertentu
+*.log
+*.exe
+
