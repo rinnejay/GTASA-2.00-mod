@@ -1,0 +1,7 @@
+#Fri Feb 27 19:54:06 WIB 2026
+base.1=/home/rinnejay/Documents/mygames/app/build/intermediates/dex/debug/mergeProjectDexDebug/12/classes.dex
+path.1=12/classes.dex
+base.0=/home/rinnejay/Documents/mygames/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

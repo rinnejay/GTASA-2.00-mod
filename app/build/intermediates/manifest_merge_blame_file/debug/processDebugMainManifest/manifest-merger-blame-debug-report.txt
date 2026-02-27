@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ndkapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="28" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:2:5-67
+11-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:3:5-16:19
+14        android:debuggable="true"
+15        android:extractNativeLibs="true"
+16        android:label="NDK App" >
+16-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:4:9-32
+17        <activity
+17-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:6:9-15:20
+18            android:name="com.example.ndkapp.MainActivity"
+18-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:7:13-41
+19            android:exported="true" >
+19-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:8:13-36
+20            <intent-filter>
+20-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:10:13-13:29
+21                <action android:name="android.intent.action.MAIN" />
+21-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:11:17-69
+21-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:11:25-66
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:12:17-77
+23-->/home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:12:27-74
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

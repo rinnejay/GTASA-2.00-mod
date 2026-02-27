@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:1:1-18:12
+	package
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:2:5-67
+	android:name
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:2:22-64
+application
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:3:5-16:19
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:3:5-16:19
+	android:extractNativeLibs
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:4:9-32
+activity#com.example.ndkapp.MainActivity
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:6:9-15:20
+	android:exported
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:8:13-36
+	android:name
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:7:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rinnejay/Documents/mygames/app/src/main/AndroidManifest.xml

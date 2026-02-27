@@ -1,0 +1,1 @@
+./gradlew assembleDebug && adb install -r /home/rinnejay/Documents/mygames/app/build/outputs/apk/debug/app-debug.apk

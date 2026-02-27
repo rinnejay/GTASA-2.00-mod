@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace "com.example.ndkapp"
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.ndkapp"
+        minSdk 21
+        targetSdk 28
+
+        versionCode 1
+        versionName "1.0"
+
+        externalNativeBuild {
+            cmake {
+                cppFlags "-std=c++17"
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path "src/main/cpp/CMakeLists.txt"
+        }
+    }
+
+    ndkVersion "26.1.10909125"
+}
+
+dependencies {
+}

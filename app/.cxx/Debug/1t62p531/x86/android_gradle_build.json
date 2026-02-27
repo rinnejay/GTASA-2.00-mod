@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/home/rinnejay/Documents/mygames/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/rinnejay/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/rinnejay/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "hooker::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "hooker",
+      "output": "/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libhooker.so",
+      "runtimeFiles": []
+    },
+    "target::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "target",
+      "output": "/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libtarget.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

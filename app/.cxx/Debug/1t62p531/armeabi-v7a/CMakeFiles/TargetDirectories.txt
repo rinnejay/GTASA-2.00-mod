@@ -1,0 +1,4 @@
+/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/armeabi-v7a/CMakeFiles/hooker.dir
+/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/armeabi-v7a/CMakeFiles/target.dir
+/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/armeabi-v7a/CMakeFiles/rebuild_cache.dir

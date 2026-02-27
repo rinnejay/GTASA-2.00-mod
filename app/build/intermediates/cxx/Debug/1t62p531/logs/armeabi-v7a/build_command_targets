@@ -1,0 +1,5 @@
+/home/rinnejay/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/armeabi-v7a \
+  hooker \
+  target

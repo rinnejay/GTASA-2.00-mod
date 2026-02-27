@@ -1,0 +1,2 @@
+int id hello_world_text_view 0x7f010000
+int layout main 0x7f020000
