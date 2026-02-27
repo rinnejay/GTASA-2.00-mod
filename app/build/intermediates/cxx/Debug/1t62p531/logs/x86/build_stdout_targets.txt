@@ -1,5 +1,5 @@
-ninja: Entering directory `/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86'
+ninja: Entering directory `/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86'
 [1/4] Building CXX object CMakeFiles/hooker.dir/hooker.cpp.o
-[2/4] Linking CXX shared library /home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libhooker.so
+[2/4] Linking CXX shared library /home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libhooker.so
 [3/4] Building CXX object CMakeFiles/target.dir/target.cpp.o
-[4/4] Linking CXX shared library /home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libtarget.so
+[4/4] Linking CXX shared library /home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531/obj/x86/libtarget.so

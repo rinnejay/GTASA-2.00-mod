@@ -1,4 +1,4 @@
-# Install script for directory: /home/rinnejay/Documents/mygames/app/src/main/cpp
+# Install script for directory: /home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/arm64-v8a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

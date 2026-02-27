@@ -8,9 +8,9 @@
     "triple": "i686-linux-android",
     "llvmTriple": "i686-none-linux-android"
   },
-  "cxxBuildFolder": "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86",
-  "soFolder": "/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
-  "soRepublishFolder": "/home/rinnejay/Documents/mygames/app/build/intermediates/cmake/debug/obj/x86",
+  "cxxBuildFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86",
+  "soFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
+  "soRepublishFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cmake/debug/obj/x86",
   "abiPlatformVersion": 21,
   "cmake": {
     "effectiveConfiguration": {
@@ -36,13 +36,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/home/rinnejay/Documents/mygames/app/.cxx",
-      "intermediatesBaseFolder": "/home/rinnejay/Documents/mygames/app/build/intermediates",
-      "intermediatesFolder": "/home/rinnejay/Documents/mygames/app/build/intermediates/cxx",
+      "cxxFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx",
+      "intermediatesBaseFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates",
+      "intermediatesFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx",
       "gradleModulePathName": ":app",
-      "moduleRootFolder": "/home/rinnejay/Documents/mygames/app",
-      "moduleBuildFile": "/home/rinnejay/Documents/mygames/app/build.gradle",
-      "makeFile": "/home/rinnejay/Documents/mygames/app/src/main/cpp/CMakeLists.txt",
+      "moduleRootFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app",
+      "moduleBuildFile": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build.gradle",
+      "makeFile": "/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/CMakeLists.txt",
       "buildSystem": "CMAKE",
       "ndkFolder": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125",
       "ndkFolderBeforeSymLinking": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125",
@@ -140,7 +140,7 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/home/rinnejay/Documents/mygames",
+        "rootBuildGradleFolder": "/home/rinnejay/Documents/GTASA-2.00-mod",
         "sdkFolder": "/home/rinnejay/Android/Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -159,12 +159,12 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/prefab/x86",
+  "prefabFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/prefab/x86",
   "isActiveAbi": true,
   "fullConfigurationHash": "1t62p531q45653a676u35321zg2ig6c4h6c328c4pt5f1b2h2y4x4k152t",
   "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 8.13.2.\n#   - $NDK is the path to NDK 26.1.10909125.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\n#   - $CMAKE is the path to CMake 3.22.1.\n#   - $NINJA is the path to Ninja.\n-H$PROJECT/app/src/main/cpp\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d21\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_ABI\u003d$ABI\n-DCMAKE_ANDROID_ARCH_ABI\u003d$ABI\n-DANDROID_NDK\u003d$NDK\n-DCMAKE_ANDROID_NDK\u003d$NDK\n-DCMAKE_TOOLCHAIN_FILE\u003d$NDK/build/cmake/android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003d$NINJA\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/obj/$ABI\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d$PROJECT/app/build/intermediates/cxx/Debug/$HASH/obj/$ABI\n-DCMAKE_BUILD_TYPE\u003dDebug\n-B$PROJECT/app/.cxx/Debug/$HASH/$ABI\n-GNinja",
   "configurationArguments": [
-    "-H/home/rinnejay/Documents/mygames/app/src/main/cpp",
+    "-H/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp",
     "-DCMAKE_SYSTEM_NAME\u003dAndroid",
     "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
     "-DCMAKE_SYSTEM_VERSION\u003d21",
@@ -176,11 +176,11 @@
     "-DCMAKE_TOOLCHAIN_FILE\u003d/home/rinnejay/Android/Sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake",
     "-DCMAKE_MAKE_PROGRAM\u003d/home/rinnejay/Android/Sdk/cmake/3.22.1/bin/ninja",
     "-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17",
-    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
-    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531/obj/x86",
     "-DCMAKE_BUILD_TYPE\u003dDebug",
-    "-B/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86",
+    "-B/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86",
     "-GNinja"
   ],
-  "intermediatesParentFolder": "/home/rinnejay/Documents/mygames/app/build/intermediates/cxx/Debug/1t62p531"
+  "intermediatesParentFolder": "/home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/cxx/Debug/1t62p531"
 }

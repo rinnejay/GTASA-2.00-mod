@@ -1,12 +1,12 @@
 [
 {
-  "directory": "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64",
-  "command": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhooker_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/hooker.dir/hooker.cpp.o -c /home/rinnejay/Documents/mygames/app/src/main/cpp/hooker.cpp",
-  "file": "/home/rinnejay/Documents/mygames/app/src/main/cpp/hooker.cpp"
+  "directory": "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64",
+  "command": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dhooker_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/hooker.dir/hooker.cpp.o -c /home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/hooker.cpp",
+  "file": "/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/hooker.cpp"
 },
 {
-  "directory": "/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64",
-  "command": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtarget_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/target.dir/target.cpp.o -c /home/rinnejay/Documents/mygames/app/src/main/cpp/target.cpp",
-  "file": "/home/rinnejay/Documents/mygames/app/src/main/cpp/target.cpp"
+  "directory": "/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64",
+  "command": "/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/home/rinnejay/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dtarget_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++17 -fno-limit-debug-info  -fPIC -o CMakeFiles/target.dir/target.cpp.o -c /home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/target.cpp",
+  "file": "/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/target.cpp"
 }
 ]

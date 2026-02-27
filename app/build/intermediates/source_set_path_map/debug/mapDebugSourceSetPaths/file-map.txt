@@ -1,8 +1,8 @@
-com.example.ndkapp-pngs-0 /home/rinnejay/Documents/mygames/app/build/generated/res/pngs/debug
-com.example.ndkapp-resValues-1 /home/rinnejay/Documents/mygames/app/build/generated/res/resValues/debug
-com.example.ndkapp-updated_navigation_xml-2 /home/rinnejay/Documents/mygames/app/build/generated/updated_navigation_xml/debug
-com.example.ndkapp-packageDebugResources-3 /home/rinnejay/Documents/mygames/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.ndkapp-packageDebugResources-4 /home/rinnejay/Documents/mygames/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.ndkapp-debug-5 /home/rinnejay/Documents/mygames/app/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.ndkapp-debug-6 /home/rinnejay/Documents/mygames/app/src/debug/res
-com.example.ndkapp-main-7 /home/rinnejay/Documents/mygames/app/src/main/res
+com.example.ndkapp-pngs-0 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/generated/res/pngs/debug
+com.example.ndkapp-resValues-1 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/generated/res/resValues/debug
+com.example.ndkapp-updated_navigation_xml-2 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/generated/updated_navigation_xml/debug
+com.example.ndkapp-packageDebugResources-3 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.ndkapp-packageDebugResources-4 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.ndkapp-debug-5 /home/rinnejay/Documents/GTASA-2.00-mod/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.ndkapp-debug-6 /home/rinnejay/Documents/GTASA-2.00-mod/app/src/debug/res
+com.example.ndkapp-main-7 /home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/res

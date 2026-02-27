@@ -1,4 +1,4 @@
-/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/hooker.dir
-/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/target.dir
-/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/edit_cache.dir
-/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/rebuild_cache.dir
+/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/hooker.dir
+/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/target.dir
+/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/edit_cache.dir
+/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86_64/CMakeFiles/rebuild_cache.dir

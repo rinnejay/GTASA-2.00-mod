@@ -1,1 +1,1 @@
-/home/rinnejay/Documents/mygames/app/src/main/cpp/CMakeLists.txt
+/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp/CMakeLists.txt

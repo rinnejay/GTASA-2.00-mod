@@ -61,7 +61,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/rinnejay/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/home/rinnejay/Documents/mygames/app/src/main/cpp -B/home/rinnejay/Documents/mygames/app/.cxx/Debug/1t62p531/x86
+  command = /home/rinnejay/Android/Sdk/cmake/3.22.1/bin/cmake --regenerate-during-build -S/home/rinnejay/Documents/GTASA-2.00-mod/app/src/main/cpp -B/home/rinnejay/Documents/GTASA-2.00-mod/app/.cxx/Debug/1t62p531/x86
   description = Re-running CMake...
   generator = 1
 
