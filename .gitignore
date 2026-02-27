@@ -1,9 +1,13 @@
 # Mengabaikan folder tertentu
 .gradle/
-.vscode/
 build/
+app/build/
+app/.cxx/
+.vscode/
 bin/
 
+# File sensitif (Sangat penting agar tidak bocor!)
+.env
 # Mengabaikan semua file dengan ekstensi tertentu
 *.log
 *.exe
